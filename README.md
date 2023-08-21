@@ -16,8 +16,5 @@
 
 <div> 
   <a href="https://www.youtube.com/c/Nexus9w9" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/bpB7aZWhx4" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Nexus9w9/Nexus9w9/blob/output/github-contribution-grid-snake.svg)
- 
+  <a href="https://discord.gg/bpB7aZWhx4" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
